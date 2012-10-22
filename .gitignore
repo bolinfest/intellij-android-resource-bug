@@ -1,0 +1,8 @@
+/out/
+gen/
+
+/.idea/dictionaries
+/.idea/inspectionProfiles
+/.idea/tasks.xml
+/.idea/uiDesigner.xml
+/.idea/workspace.xml
