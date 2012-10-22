@@ -1,0 +1,2 @@
+intellij-android-resource-bug
+=============================
